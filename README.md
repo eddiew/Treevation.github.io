@@ -2,5 +2,5 @@
 
 Landing page for Treevation developers.
 
-##Contributors (add yourself here if you've contributed)
-Sam Redmond (`/sredmond`)
+##Contributors (add yourself)
+* Sam Redmond (`/sredmond`)
