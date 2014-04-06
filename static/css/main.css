@@ -14,6 +14,12 @@ html, body {
   /*padding: 0 0 75px; */
 }
 
+#stanford_logo {
+  float: left;
+  height: 15rem;
+  margin-right: 2rem;
+}
+
 /* FOR WHEN WE MAKE A FOOTER
 /* Set the fixed height of the footer here */
 /*#footer {
